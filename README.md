@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/IcaroLopes42/leetcode-submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
